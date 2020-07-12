@@ -11,4 +11,4 @@
 
 # Overview
 
-   This is a deep learning ANN project using keras.I am done this project using Google colab.
+   This is a deep learning ANN project using keras.I am done this project using Google colab.this is a Benign and Malignanat diagnosis project.
