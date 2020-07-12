@@ -11,4 +11,4 @@
 
 # Overview
 
-   This is a deep learning ANN project using keras.I am done this project using Google colab.D
+   This is a deep learning ANN project using keras.I am done this project using Google colab.
