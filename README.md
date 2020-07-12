@@ -7,5 +7,5 @@
  
 # .ipynb file contain Python Deep learning code for ANN classification work.
 
-
+# .py file contain Python Deep learning code for ANN classification work.
  
